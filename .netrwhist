@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/savkin/projects/ruby/playground'
+let g:netrw_dirhist_2='/Users/savkin/projects/ruby'
+let g:netrw_dirhist_3='/Users/savkin/projects/ruby/lew'
+let g:netrw_dirhist_4='/Users/savkin/projects/ruby/playground'
+let g:netrw_dirhist_5='/Users/savkin/projects/ruby/oald_parser/lib'
+let g:netrw_dirhist_6='/Users/savkin/projects/ruby/oald_parser/lib/oald_parser'
